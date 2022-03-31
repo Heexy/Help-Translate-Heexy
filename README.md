@@ -6,8 +6,9 @@ Help Transalte Heexy &lt;3
 
 ### What Language we need?
 - Every whats you can, if you transalte content or check if content is good writed you help Heexy please make **Pull REQUESTS if you edit file**
+- If you have some questions or need help contact Heexy Team **info@heexy.tk**
 
-## Translated Languages
+## Translated Languages Status
 
 - Czech Republic ✅ (Heexy owners Official Language)
 - Slovakia ✅ (By Heexy comunity THANKS **❤️ filip769 ❤️**)
@@ -19,4 +20,3 @@ Help Transalte Heexy &lt;3
 
 <img src="https://i.natgeofe.com/k/05fcf5e6-634f-46c3-bce8-605f1c84c947/1900x1068_herolead_countries_4x3.jpg" style="border-radius: 10px;" alt="" /> 
 
-- If you have some questions or need help contact Heexy Team **info@heexy.tk**
