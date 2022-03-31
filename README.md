@@ -5,7 +5,7 @@ We are need your language skils for translate Heexy to more Langugages if you ca
 
 ## Translated Languages
 
-> Czech Republic ✅
+> [Czech Republic ✅]
 > Slovakia ✅
 > Detushland (⚠️ FINISHED BUT NOT CHECKED OFFICIAL LANGUAGE SPEEKER)
 > Poland (⚠️ FINISHED BUT NOT CHECKED OFFICIAL LANGUAGE SPEEKER)
