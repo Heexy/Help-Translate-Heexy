@@ -20,3 +20,13 @@ Help Transalte Heexy &lt;3
 
 <img src="https://i.natgeofe.com/k/05fcf5e6-634f-46c3-bce8-605f1c84c947/1900x1068_herolead_countries_4x3.jpg" style="border-radius: 10px;" alt="" /> 
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('heexy', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support Us',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
