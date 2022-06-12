@@ -42,9 +42,14 @@
         "termsofservicetitle": "Heexy.org | Podmínky služby",
         "termsofservicetext": "PODMÍNKY SLUŽBY HEEXY",
 
-        "stats-des-1":"preklad",
-        "stats-des-2":"preklad",
-        "stats-des-8":"preklad"
+        "stats-des-1":"CELKOVÁ DATA INDEXOVANÁ",
+        "stats-des-2":"CELKOVÉ INDEXOVANÉ WEBOVÉ STRÁNKY",
+        "stats-des-3":"CELKOVÝ POČET NAVŠTĚV",
+        "stats-des-4":"CELKOVĚ VYHLEDÁNO",
+        "stats-des-5":"ROKŮ ZKUŠENOSTI",
+        "stats-des-6":"ŘÁDKY KÓDŮ",
+        "stats-des-7":"UŽIVATELÉ",
+        "stats-des-8":"SERVERY"
 
     },
     "sk": {
@@ -66,7 +71,16 @@
         "videosearchtitle": "Videá",
         "newssearchtitle": "Správy",
         "termsofservicetitle": "Heexy.org | Terms of Service",
-        "termsofservicetext": "Terms of Service"
+        "termsofservicetext": "Terms of Service",
+
+        "stats-des-1":"CELKOVÉ INDEXOVANÉ ÚDAJE",
+        "stats-des-2":"CELKOM INDEXOVANÉ WEBOVÉ STRÁNKY",
+        "stats-des-3":"CELKOVÝ POČET NÁVŠTEV",
+        "stats-des-4":"CELKOM VYHĽADÁVANÉ",
+        "stats-des-5":"ROKY SKÚSENOSTI",
+        "stats-des-6":"ŘÁDKY KODŮ",
+        "stats-des-7":"POUŽÍVATEĽOV",
+        "stats-des-8":"SERVERY"
     },   
     "rs": {
         "placeholdersearchbarhome": "Кликните за претрагу на Хееки",
@@ -129,7 +143,16 @@
         "videosearchtitle": "Wideo",
         "newssearchtitle": "Aktualności",
         "termsofservicetitle": "Heexy.org | Terms of Service",
-        "termsofservicetext": "Terms of Service"
+        "termsofservicetext": "Terms of Service",
+
+        "stats-des-1":"CAŁKOWITE ZINDEKSOWANE DANE",
+        "stats-des-2":"RAZEM ZINDEKSOWANYCH WITRYN",
+        "stats-des-3":"SUMA WIZYT",
+        "stats-des-4":"WYSZUKANE OGÓŁEM",
+        "stats-des-5":"WIELOLETNIE DOŚWIADCZENIE",
+        "stats-des-6":"WIERSZE KODU",
+        "stats-des-7":"UŻYTKOWNICY",
+        "stats-des-8":"SERWERY"
     },
     "fr": {
         "placeholdersearchbarhome": "Cliquez pour rechercher avec Heexy",
@@ -216,7 +239,16 @@
             "videosearchtitle": "Videos",
             "newssearchtitle": "Nachrichten",
             "termsofservicetitle": "Heexy.org | Terms of Service",
-            "termsofservicetext": "Terms of Service"
+            "termsofservicetext": "Terms of Service",
+
+            "stats-des-1":"GESAMTDATEN INDEXIERT",
+            "stats-des-2":"GESAMTINDEXIERTE WEBSEITEN",
+            "stats-des-3":"BESUCHE INSGESAMT",
+            "stats-des-4":"GESAMT GESUCHT",
+            "stats-des-5":"JAHRE ERFAHRUNG",
+            "stats-des-6":"ZEILEN VON CODE",
+            "stats-des-7":"BENUTZER",
+            "stats-des-8":"SERVER"
         
     },
         "es": { 
